@@ -1,5 +1,5 @@
 - ☕ Estudante Back Ending
-- 🖥️ Java, JS, JSON
+- 🧠 Java, JS, JSON
 //
 - System.out.print("Vamos Codar!")
 //
